@@ -1,2 +1,2 @@
 web: TransitGet
-%GOPATH%/src/github.com/goapiapp/TransitGet
+%GOPATH%/src/github.com/heroku/TransitGet
